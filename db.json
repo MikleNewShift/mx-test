@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Question title",
+    "answers": [
+      {
+        "name": "Answer1",
+        "isRight": false
+      },
+      {
+        "name": "Answer2",
+        "isRight": false
+      },
+      {
+        "name": "Answer3",
+        "isRight": false
+      },
+      {
+        "name": "Answer4",
+        "isRight": true
+      }
+    ]
+  }
+]
