@@ -20,6 +20,27 @@
           "isRight": true
         }
       ]
+    },
+    {
+      "title": "Question title 2",
+      "answers": [
+        {
+          "name": "Answer1",
+          "isRight": false
+        },
+        {
+          "name": "Answer2",
+          "isRight": false
+        },
+        {
+          "name": "Answer3",
+          "isRight": true
+        },
+        {
+          "name": "Answer4",
+          "isRight": false
+        }
+      ]
     }
   ]
 }
